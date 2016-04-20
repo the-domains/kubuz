@@ -1,7 +1,7 @@
 name: kubuz
 favicon: null
-layout_spectrum: 0.4286021962761879
-typography_spectrum: 0.5559233571402729
+layout_spectrum: 0.75592
+typography_spectrum: 0.29599
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.14281687582843006
-  lightness: 0.9632745212875307
-  saturation: 0.8351507217157632
-  rhythmicContrast: 0.9120996175333858
+    - '#fdfdff'
+    - '#44454a'
+    - '#161618'
+    - '#816b54'
+    - '#ba9873'
+  brandStrength: 1
+  lightness: 0.6875
+  saturation: 0.5
+  rhythmicContrast: 1
 purpose: []
