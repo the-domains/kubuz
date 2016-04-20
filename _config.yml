@@ -2,6 +2,7 @@ name: kubuz
 favicon: null
 layout_spectrum: 0.75592
 typography_spectrum: 0.29599
+title: Studio Kubuz
 cta:
   domain: null
   bucket: null
