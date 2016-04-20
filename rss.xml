@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[kubuz]]></title>
         <description><![CDATA[kubuz]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kubuz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Apr 2016 06:51:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 20 Apr 2016 06:53:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kubuz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>We hebben een nieuw 3d-print filament getest. Namelijk BronzeFill van Colorfabb. </p>]]></description>
+            <link>https://thegrid.ai/kubuz/we-hebben-een-nieuw-3d-print-filament-getest-namelijk-bronz/index.html</link>
+            <guid isPermaLink="false">108ce751-b8a5-4f83-86e0-7a10ae856c66</guid>
+            <pubDate>Wed, 20 Apr 2016 06:52:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>We zijn er aan begonnen, vanaf vandaag kan u op onze website parametrische modellen downloaden voor Autodesk Inventor. We starten met een parametrische trap die u kan aanpassen in hoogte, breedte en hellingsgraad. </p>]]></description>
-            <link>undefinedwe-zijn-er-aan-begonnen-vanaf-vandaag-kan-u-op-onze-website/index.html</link>
+            <link>https://thegrid.ai/kubuz/we-zijn-er-aan-begonnen-vanaf-vandaag-kan-u-op-onze-website/index.html</link>
             <guid isPermaLink="false">eb2b9840-8627-46c2-9674-0661b3ca7c85</guid>
             <pubDate>Wed, 20 Apr 2016 06:50:45 GMT</pubDate>
         </item>
