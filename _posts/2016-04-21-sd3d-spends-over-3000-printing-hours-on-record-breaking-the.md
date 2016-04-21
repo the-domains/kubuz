@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "SD3D spends over 3000 printing hours on record-breaking 'The Largest 3D Printed City' model "
-datePublished: '2016-04-21T13:53:53.049Z'
-dateModified: '2016-04-21T13:53:49.294Z'
+datePublished: '2016-04-21T14:12:46.088Z'
+dateModified: '2016-04-21T13:54:01.359Z'
 author: []
 title: ''
 sourcePath: _posts/2016-04-21-sd3d-spends-over-3000-printing-hours-on-record-breaking-the.md
