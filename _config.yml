@@ -1,6 +1,6 @@
 name: kubuz
 favicon: null
-layout_spectrum: 0.75592
+layout_spectrum: 1
 typography_spectrum: 0.29599
 title: Studio Kubuz
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#fdfdff'
-    - '#44454a'
-    - '#161618'
-    - '#816b54'
-    - '#ba9873'
+    - '#262626'
+    - '#e74c3c'
+    - '#2980b9'
+    - '#ecf0f1'
+    - '#9bc9e7'
   brandStrength: 1
   lightness: 0.6875
   saturation: 0.5
