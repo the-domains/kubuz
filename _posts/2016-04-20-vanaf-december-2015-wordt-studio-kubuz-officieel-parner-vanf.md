@@ -7,27 +7,27 @@ inLanguage: null
 starred: false
 keywords: []
 description: Vanaf december 2015 wordt Studio Kubuz officieel parner vanFairphone 2.
-datePublished: '2016-04-20T06:48:58.875Z'
-dateModified: '2016-04-20T06:48:52.699Z'
+datePublished: '2016-04-21T14:14:37.713Z'
+dateModified: '2016-04-21T14:14:06.066Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-20-vanaf-december-2015-wordt-studio-kubuz-officieel-parner-vanf.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-20-vanaf-december-2015-wordt-studio-kubuz-officieel-parner-vanf.md
-published: true
 _context: 'http://schema.org'
 _type: Article
 
 ---
 Vanaf december 2015 wordt Studio Kubuz officieel parner van[Fairphone 2\.][0]
 
-Dankzij een samenwerking met het grootste 3dprint platform[3Dhubs][1]krijgt onze studio het voorrecht om de accesoires van de nieuwe Fairphone 2 te printen. 
+Dankzij een samenwerking met het grootste 3dprint platform[3Dhubs][1]krijgt onze studio het voorrecht om de accesoires van de nieuwe Fairphone 2 te printen. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d579410b-ce5f-4c47-8cd4-cb155c6a87c4.jpg)
 
-Momenteel bestaat het aanbod uit een[FairPhone 2 Amplifier][2]en een[FairPhone 2 nightstand][3]. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d579410b-ce5f-4c47-8cd4-cb155c6a87c4.jpg)
+Momenteel bestaat het aanbod uit een[FairPhone 2 Amplifier][2]en een[FairPhone 2 nightstand][3]. 
 
 Deze worden geprint in Colorfab woodfill. 
 
