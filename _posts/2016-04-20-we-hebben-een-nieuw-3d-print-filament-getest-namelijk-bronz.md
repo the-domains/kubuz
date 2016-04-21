@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'We hebben een nieuw 3d-print filament getest. Namelijk BronzeFill van Colorfabb. '
-datePublished: '2016-04-21T13:53:16.716Z'
-dateModified: '2016-04-20T06:52:27.433Z'
+datePublished: '2016-04-21T14:14:32.676Z'
+dateModified: '2016-04-21T14:13:32.629Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-20-we-hebben-een-nieuw-3d-print-filament-getest-namelijk-bronz.md
