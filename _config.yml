@@ -1,20 +1,4 @@
-name: kubuz
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 0.29599
-title: Studio Kubuz
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#262626'
@@ -26,4 +10,21 @@ color:
   lightness: 0.6875
   saturation: 0
   rhythmicContrast: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: kubuz
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Studio Kubuz
+description: imagine ideas
 purpose: []
